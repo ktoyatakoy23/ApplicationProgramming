@@ -1,0 +1,30 @@
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\bin\Debug\LetterSender.exe.config
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\bin\Debug\LetterSender.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\bin\Debug\LetterSender.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.csproj.AssemblyReference.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\MainWindow.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\App.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender_MarkupCompile.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender_MarkupCompile.lref
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\MainWindow.baml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.g.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.Properties.Resources.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.csproj.GenerateResource.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender\LetterSender\obj\Debug\LetterSender.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\bin\Debug\LetterSender.exe.config
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\bin\Debug\LetterSender.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\bin\Debug\LetterSender.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.csproj.AssemblyReference.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\MainWindow.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\App.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender_MarkupCompile.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender_MarkupCompile.lref
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\MainWindow.baml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.g.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.Properties.Resources.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.csproj.GenerateResource.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\LetterSender WPF\LetterSender\obj\Debug\LetterSender.pdb
