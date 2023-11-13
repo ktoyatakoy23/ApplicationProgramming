@@ -1,0 +1,14 @@
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\bin\Release\net6.0\задание 8.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\bin\Release\net6.0\задание 8.deps.json
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\bin\Release\net6.0\задание 8.runtimeconfig.json
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\bin\Release\net6.0\задание 8.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\bin\Release\net6.0\задание 8.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.AssemblyInfoInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.AssemblyInfo.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\refint\задание 8.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\задание 8.genruntimeconfig.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задание 8\задание 8\obj\Release\net6.0\ref\задание 8.dll
