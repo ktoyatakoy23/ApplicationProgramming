@@ -1,0 +1,68 @@
+﻿<Window x:Class="задачник_на_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:задачник_на_wpf"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        mc:Ignorable="d"
+        Title="Задачи" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#007ACC"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="BorderBrush" Value="#005d9c"/>
+            <Setter Property="BorderThickness" Value="0,0,2,0"/>
+            <Setter Property="Padding" Value="6,4"/>
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="DataGridColumnHeader">
+                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+
+    <Grid>
+        <DataGrid x:Name="ToDoList" Margin="3" AutoGenerateColumns="False" CellEditEnding="ToDoList_CellEditEnding" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path = CreationDate}" IsReadOnly="True" Header="Дата Создания"  Width="2*"/>
+                <DataGridTemplateColumn x:Name="Dead" Header="Дедлайн" Width="2*">
+                    <DataGridTemplateColumn.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="Дедлайн"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.HeaderTemplate>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Path=DeadLine, StringFormat=dd.MM.yyyy}" IsReadOnly="False" PreviewTextInput="TextBox_PreviewTextInput"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding Path = Text}" IsReadOnly="False" Header="Задача" Width="4*"/>
+                <DataGridCheckBoxColumn Binding="{Binding Path = isDone, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="False" Header="Готово" Width="1*"/>
+                
+                
+                
+
+                <!--<DataGridComboBoxColumn  IsReadOnly="False" Header="Приоритет" Width="1*"
+                        SelectedValueBinding="{Binding Priority, Mode=TwoWay}" 
+                        DisplayMemberPath="."
+                        ItemsSource="{Binding PriorityOptions}">
+                </DataGridComboBoxColumn>
+
+
+                <DataGridComboBoxColumn IsReadOnly="False" Header="Сортировка по..." Width="1*">
+                </DataGridComboBoxColumn>-->
+       
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

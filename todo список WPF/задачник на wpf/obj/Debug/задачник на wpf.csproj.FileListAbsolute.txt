@@ -1,0 +1,36 @@
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.exe.config
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.AssemblyReference.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\App.g.cs
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf_MarkupCompile.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf_MarkupCompile.lref
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\MainWindow.baml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.g.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник_на_wpf.Properties.Resources.resources
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.GenerateResource.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.CoreCompileInputs.cache
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.exe
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.pdb
+E:\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.exe.config
+E:\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.exe
+E:\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\задачник на wpf.pdb
+E:\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\Newtonsoft.Json.dll
+E:\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\Newtonsoft.Json.xml
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.AssemblyReference.cache
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\MainWindow.g.cs
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\App.g.cs
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf_MarkupCompile.cache
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf_MarkupCompile.lref
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\MainWindow.baml
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.g.resources
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник_на_wpf.Properties.Resources.resources
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.GenerateResource.cache
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.CoreCompileInputs.cache
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.CopyComplete
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.exe
+E:\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.pdb
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Софич и Владич\Desktop\колледж программированеи\задачник на wpf\задачник на wpf\obj\Debug\задачник на wpf.csproj.CopyComplete
